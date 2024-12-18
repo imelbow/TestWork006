@@ -1,0 +1,46 @@
+# Файлы/каталоги виртуальных окружений
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+
+# Файлы кэша Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Конфигурационные файлы IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Файлы тестирования
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+
+# Артефакты сборки
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Файлы, связанные с Jupyter Notebook
+.ipynb_checkpoints/
+
+# Файлы базы данных SQLite
+*.sqlite3
+
+# Файлы, содержащие секреты
+.env
+*.env
