@@ -1,4 +1,6 @@
 ## Financial Transaction Analysis Microservice
+-[English](#financial-transaction-analysis-microservice)  
+-[Русский](#микросервис-анализа-финансовых-транзакций)
 
 A microservice for processing and analyzing financial transactions, built with FastAPI, Celery, and PostgreSQL.
 
